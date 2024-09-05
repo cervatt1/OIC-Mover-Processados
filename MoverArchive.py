@@ -45,3 +45,5 @@ class MyService(win32serviceutil.ServiceFramework):
 
 if __name__ == '__main__':
     win32serviceutil.HandleCommandLine(MyService)
+
+# a teste aaa
